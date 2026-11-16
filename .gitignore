@@ -1,0 +1,40 @@
+
+# Private wardriving data
+data/
+*.db
+*.sqlite
+*.sqlite3
+*.csv
+*.pcap
+*.pcapng
+*.cap
+marauder_scan*.txt
+
+# Logs
+*.log
+
+# Credentials
+.env
+.env.*
+*.pem
+*.key
+
+# Python generated files
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Compiled Flipper programs
+flipper_identify
+flipper_cli
+flipper_list
+flipper_logs
+flipper_dumps
+flipper_read
+flipper_stream
+
+# Backups
+*.bak
+*.backup
+*.before_flipper_panel
