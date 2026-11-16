@@ -1,5 +1,7 @@
 # Sentinel Wardriver
 
+https://sentinel-wardriver-2.onrender.com/
+
 Android-based Wi-Fi wardriving and wireless
 network visualization platform.
 
@@ -49,7 +51,7 @@ Start the dashboard:
 
 Open:
 
-    http://127.0.0.1:5001
+    https://sentinel-wardriver-2.onrender.com/
 
 In another Termux session, start scanning:
 
